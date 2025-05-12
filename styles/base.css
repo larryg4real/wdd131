@@ -109,8 +109,10 @@ footer p {
 h2 {
     font-size: 1.5em;
     background-color: rgb(30, 30, 80);
-    color: #ccc; padding: 10px;
-    text-align: center; margin-top: 0;
+    color: #ccc;
+    padding: 10px;
+    text-align: center;
+    margin-top: 0;
 }
 
 h3 {
@@ -118,7 +120,7 @@ h3 {
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 2em;
     color: #0c0b0b;
     font-family: Arial, sans-serif;
